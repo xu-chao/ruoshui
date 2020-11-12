@@ -1,0 +1,48 @@
+final deviceMapList = [
+  {
+    "name": "智能随心杯1号",
+    "type": "￥399",
+    "rating": 4.5,
+    "goodReviews": 79.2,
+    "totalScore": 93.2,
+    "satisfaction": 85.2,
+    "isfavourite": true,
+    "image": "asset/device/drink1.png",
+    "description": "智能随心杯1号",
+  },
+  {
+    "name": "智能随心杯2号",
+    "type": "￥199",
+    "rating": 3.5,
+    "goodReviews": 93.2,
+    "totalScore": 72.2,
+    "satisfaction": 89.2,
+    "isfavourite": false,
+    "image": "asset/device/drink4.png",
+    "description": "智能随心杯2号",
+  },
+  // {
+  //   "name": "智能随心杯3号",
+  //   "type": "￥299",
+  //   "rating": 2.5,
+  //   "goodReviews": 88.2,
+  //   "totalScore": 93.94,
+  //   "satisfaction": 78.2,
+  //   "isfavourite": false,
+  //   "image": "asset/device/drink3.png",
+  //   "description":
+  //       "智能随心杯3号",
+  // },
+  // {
+  //   "name": "智能随心杯4号",
+  //   "type": "￥59",
+  //   "rating": 1.5,
+  //   "goodReviews": 12.2,
+  //   "totalScore": 75.2,
+  //   "satisfaction": 84.2,
+  //   "isfavourite": true,
+  //   "image": "asset/device/drink1.png",
+  //   "description":
+  //       "智能随心杯4号",
+  // },
+];
